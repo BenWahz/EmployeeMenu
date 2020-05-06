@@ -13,11 +13,6 @@ Instructions for testing...
     #userB - animal123 - user
     #userC - Cookie - guest
 
-
-
-    !!! FOR LAB ASSIGNMENT 7 !!!
-
-
     feel free to register a new user or two to see how my program can...
         -verify that a password is strong enough
         -generate a strong password
